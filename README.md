@@ -58,9 +58,7 @@
 
 ## ✉️ &nbsp;Contact Me
 <div align="center">
-  <a href="mailto:huzaifawaqar77@example.com">Email</a> •
-  <a href="https://www.linkedin.com/in/huzaifa-waqar" target="_blank">LinkedIn</a> •
-  <a href="https://twitter.com/huzaifawaqar77" target="_blank">Twitter/X</a>
+  <a href="mailto:huzaifawaqar77@gmail.com">Email</a> •
 </div>
 
 ---
